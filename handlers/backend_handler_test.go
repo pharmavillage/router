@@ -15,7 +15,7 @@ import (
 	promtest "github.com/prometheus/client_golang/prometheus/testutil"
 	prommodel "github.com/prometheus/client_model/go"
 
-	log "github.com/alphagov/router/logger"
+	log "apps/router/logger"
 )
 
 var _ = Describe("Backend handler", func() {

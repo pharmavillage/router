@@ -11,9 +11,10 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/alphagov/router/handlers"
-	"github.com/alphagov/router/logger"
-	"github.com/alphagov/router/triemux"
+	"apps/router/handlers"
+	"apps/router/logger"
+	"apps/router/triemux"
+
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
 )

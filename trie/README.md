@@ -8,7 +8,7 @@ This makes it suitable for efficiently storing information about hierarchical
 systems in general, rather than being specifically geared towards string lookup.
 
 See also the [Godoc documentation for
-`trie`](https://pkg.go.dev/github.com/alphagov/router/trie).
+`trie`](https://pkg.go.dev/apps/router/trie).
 
 [go]: https://go.dev/
 [trie]: https://en.wikipedia.org/wiki/Trie

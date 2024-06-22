@@ -99,7 +99,7 @@ This project uses [Go Modules](https://github.com/golang/go/wiki/Modules) to ven
 
 - [Data structure](docs/data-structure.md)
 - [Original thinking behind the router](https://technology.blog.gov.uk/2013/12/05/building-a-new-router-for-gov-uk/)
-- [Example of adding a metric](https://github.com/alphagov/router/commit/b443d3d) using the [Go prometheus client library](https://pkg.go.dev/github.com/prometheus/client_golang/prometheus)
+- [Example of adding a metric](https://apps/router/commit/b443d3d) using the [Go prometheus client library](https://pkg.go.dev/github.com/prometheus/client_golang/prometheus)
 
 ## Team
 
@@ -114,5 +114,5 @@ board](https://trello.com/b/u4FCzm53/).
 [MIT License](LICENCE)
 
 [#govuk-platform-engineering]: https://gds.slack.com/channels/govuk-platform-engineering
-[router-api]: https://github.com/alphagov/router-api
-[tm]: https://github.com/alphagov/router/tree/main/triemux
+[router-api]: https://apps/router-api
+[tm]: https://apps/router/tree/main/triemux

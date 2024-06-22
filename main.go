@@ -9,8 +9,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/alphagov/router/handlers"
-	router "github.com/alphagov/router/lib"
+	"apps/router/handlers"
+	router "apps/router/lib"
+
 	"github.com/prometheus/client_golang/prometheus"
 )
 

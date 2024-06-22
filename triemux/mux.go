@@ -9,9 +9,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/alphagov/router/handlers"
-	"github.com/alphagov/router/logger"
-	"github.com/alphagov/router/trie"
+	"apps/router/handlers"
+	"apps/router/logger"
+	"apps/router/trie"
 )
 
 type Mux struct {

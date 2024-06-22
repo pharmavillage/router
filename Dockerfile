@@ -26,5 +26,5 @@ COPY --from=builder /usr/share/ca-certificates /usr/share/ca-certificates
 COPY --from=builder /etc/ssl /etc/ssl
 USER 1001
 CMD ["/bin/router"]
-LABEL org.opencontainers.image.source="https://github.com/alphagov/router"
+LABEL org.opencontainers.image.source="https://apps/router"
 LABEL org.opencontainers.image.license=MIT

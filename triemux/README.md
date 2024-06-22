@@ -11,7 +11,7 @@ API documentation for `triemux` can be found at [godoc.org][docs].
 ## Install
 
 ```
-go install github.com/alphagov/router/triemux
+go install apps/router/triemux
 ```
 
 ## Usage
@@ -44,6 +44,6 @@ srv.ListenAndServe()
 
 `triemux` is released under the MIT licence, a copy of which can be found in `LICENCE`.
 
-[docs]: https://pkg.go.dev/github.com/alphagov/router/triemux
+[docs]: https://pkg.go.dev/apps/router/triemux
 [go]: https://go.dev/
 [handler]: https://pkg.go.dev/net/http#Handler

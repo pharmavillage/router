@@ -1,4 +1,4 @@
-module github.com/alphagov/router
+module apps/router
 
 go 1.22.2
 

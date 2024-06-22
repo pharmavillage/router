@@ -1,8 +1,9 @@
 package router
 
 import (
-	"github.com/alphagov/router/handlers"
-	"github.com/alphagov/router/triemux"
+	"apps/router/handlers"
+	"apps/router/triemux"
+
 	"github.com/prometheus/client_golang/prometheus"
 )
 

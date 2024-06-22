@@ -15,7 +15,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/alphagov/router/logger"
+	"apps/router/logger"
 )
 
 var TLSSkipVerify bool
